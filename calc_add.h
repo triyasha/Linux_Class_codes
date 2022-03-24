@@ -1,0 +1,2 @@
+
+double add(double, double);
